@@ -27,3 +27,5 @@ Here are some ideas to get you started:
    <a href="https://stackoverflow.com/users/17863939/gabi-mangili" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
  </a>
 </div>
+
+![snake gif](https://github.com/GabiMangili/GabiMangili/blob/output/github-contribution-grid-snake.svg)
