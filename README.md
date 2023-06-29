@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/GabiMangili">
-  <img src="https://github-readme-stats.vercel.app/api/waketime?username=GabiMangili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/waketime?username=GabiMangili">
 </div>
 
 <div align="center">
