@@ -20,10 +20,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiMangili&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/GabiMangili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabiMangili">
-</div>
 
 <div align="center">
   <a href="https://www.instagram.com/gabi_mangili/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,3 +30,8 @@ Here are some ideas to get you started:
 </div>
 
 ![snake gif](https://github.com/GabiMangili/GabiMangili/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <a href="https://github.com/GabiMangili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@GabiMangili">
+</div>
