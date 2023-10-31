@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMangili&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMangili&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMangili&layout=donut&theme=dracula)](https://github.com/GabiMangili/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMangili&layout=donut&theme=midnight-purple)](https://github.com/GabiMangili/github-readme-stats)
 
 <div align="left">
   <a href="https://www.instagram.com/gabi_mangili/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
