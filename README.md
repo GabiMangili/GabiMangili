@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabiMangili&theme=draculalayout=donut)](https://github.com/GabiMangili/github-readme-stats&theme=draculalayout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMangili&layout=donut&theme=dracula)](https://github.com/GabiMangili/github-readme-stats)
 
 <div align="left">
   <a href="https://www.instagram.com/gabi_mangili/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
