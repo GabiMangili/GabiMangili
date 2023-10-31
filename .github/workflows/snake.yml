@@ -27,12 +27,6 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-
       - run: git status
 
       # Para as atualizações.
@@ -45,6 +39,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
+          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
